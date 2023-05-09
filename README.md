@@ -3,7 +3,7 @@ The K-means algorithm  is used in this data analytics to cluster financial asset
 This machine learning algorithms  is enhanced by applying the principal component analysis.
 
 ## Methodology and Approach
-Used the elbow algorithm  to find the best avlue for k(clusters) using the Original Data and Pricipal Component Analysis (PCA) data respectively.
+Used the elbow algorithm  to find the best value for k(clusters) using the Original Data and Principal Component Analysis (PCA) data respectively.
 
 Clustered cyptocurrencies with K-means using the Original Data.
 
@@ -16,7 +16,7 @@ Visualization and comparison of the results.
 
 - Pandas library -  a Python library for data analysis. 
 
-- hvPlot and GeoViews- visualization libraries. 
+- hvPlot - visualization libraries. 
 
 - Scikit-learn library - for PCA module and Kmeans clustering and StandardScaler. 
 
