@@ -18,7 +18,7 @@ Visualization and comparison of the results.
 
 - hvPlot and GeoViews- visualization libraries. 
 
-- Scikit-learn library - for PCA module and Kmeans clustering 
+- Scikit-learn library - for PCA module and Kmeans clustering and StandardScaler. 
 
 - Jupyter notebook
 
